@@ -1,6 +1,5 @@
 %%%%%%%%%% Data Points Generated For 2DOF System %%%%%%%%%%
 %%%%%%%%%% Subjected To Deterministic And Stochastic Forces  %%%%%%%%%%
-%%%%%%%%%% Shailesh Garg  %%%%%%%%%%
 
 clc
 clear

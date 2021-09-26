@@ -1,6 +1,5 @@
 %%%%%%%%%% 1 Data Point Analyzed For 2DOF System %%%%%%%%%%
 %%%%%%%%%% Subjected To Deterministic And Stochastic Forces  %%%%%%%%%%
-%%%%%%%%%% Shailesh Garg  %%%%%%%%%%
 
 clc
 clear
