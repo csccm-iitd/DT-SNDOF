@@ -1,6 +1,8 @@
 # Machine-learning-based-digital-twin-for-stochastic-nonlinear-multi-degree-of-freedom-dynamical-system
 Provided in the repository are the sample MATLAB codes for the research paper titled 'Machine learning based digital twin for stochastic nonlinear multi-degree of freedom dynamical system'. Please go through the paper to understand the implemented algorithm.
 
+Note:
+Because of presence of Gaussian white noise and stochastic differential equations results may vary for different runs of the programs.
 
 Citation Details:
 
